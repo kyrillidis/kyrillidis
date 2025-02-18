@@ -49,5 +49,9 @@ SOC Engineer specializing in SIEM/SOAR implementations and Web3 security
 - CompTIA Security+ (In Progress)
 - Microsoft SC-200 (In Progress)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kyrillidis&color=blue&style=flat-square" alt="Profile views" />
+</div>
+
 📍 Athens, Greece
 📧 kyrillidisvasilis@gmail.com
