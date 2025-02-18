@@ -1,6 +1,26 @@
 # Vasilis Kyrillidis
 SOC Engineer specializing in SIEM/SOAR implementations and Web3 security
 
+<!-- Stats Cards Grid -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kyrillidis&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyrillidis&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillidis&theme=dark&hide_border=true&layout=compact" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=kyrillidis&theme=darkhub&no-frame=true&row=2&column=3" />
+    </td>
+  </tr>
+</table>
+
 ### Security Operations & Tools:
 ![SIEM](https://img.shields.io/badge/SIEM%20ENGINEERING-CC2927.svg?style=for-the-badge&logo=microsoft-security&logoColor=white)
 ![SOAR](https://img.shields.io/badge/SOAR%20AUTOMATION-2560E0.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
@@ -48,6 +68,10 @@ SOC Engineer specializing in SIEM/SOAR implementations and Web3 security
 - Department of Management Science And Technology (University of Patras)
 - CompTIA Security+ (In Progress)
 - Microsoft SC-200 (In Progress)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=washed-adm1n&color=blue&style=flat-square" alt="Profile views" />
+</div>
 
 📍 Athens, Greece
 📧 kyrillidisvasilis@gmail.com
