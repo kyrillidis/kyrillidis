@@ -49,6 +49,7 @@ SOC Engineer specializing in SIEM/SOAR implementations and Web3 security
 - CompTIA Security+ (In Progress)
 - CDSA Hack The Box (In Progress)
 - Microsoft SC-200
+- Google Cybersecurity Professional Certificate
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kyrillidis&color=blue&style=flat-square" alt="Profile views" />
