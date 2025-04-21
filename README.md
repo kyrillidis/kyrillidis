@@ -47,7 +47,8 @@ SOC Engineer specializing in SIEM/SOAR implementations and Web3 security
 - Master's in Development & Security of Information Systems (Athens University of Economics And Business)
 - Department of Management Science And Technology (University of Patras)
 - CompTIA Security+ (In Progress)
-- Microsoft SC-200 (In Progress)
+- CDSA Hack The Box (In Progress)
+- Microsoft SC-200
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kyrillidis&color=blue&style=flat-square" alt="Profile views" />
