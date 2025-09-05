@@ -50,10 +50,10 @@ SOC Engineer specializing in SIEM/SOAR implementations and Web3 security
 
 ### 🏅 Certifications
 
-CDSA (Cyber Defense Specialist Analyst) — Hack The Box (Completed Path)
-CJCA (Certified Junior Cybersecurity Associate) — Hack The Box (Completed Path)
-Google Cybersecurity Professional Certificate
-IBM QRadar SIEM Foundation
+- CDSA (Cyber Defense Specialist Analyst) — Hack The Box (Completed Path)
+- CJCA (Certified Junior Cybersecurity Associate) — Hack The Box (Completed Path)
+- Google Cybersecurity Professional Certificate
+- IBM QRadar SIEM Foundation
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kyrillidis&color=blue&style=flat-square" alt="Profile views" />
